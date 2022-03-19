@@ -10,11 +10,11 @@
       }
     ],
     "require": {
-      "php": ">=7.2",
-	    "scotteh/php-goose": "dev-master",
+      "php": "^7.3|^8.0",
+      "scotteh/php-goose": "dev-master",
       "paquettg/php-html-parser": "^3.1.1",
       "detectlanguage/detectlanguage": "2.*",
-      "andreskrey/readability.php": "^2.1.0"
+      "fivefilters/readability.php": "^2.1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.0"
